@@ -1,7 +1,7 @@
 
 
 
-var mainText = document.getElementById('paragraph').innerHTML;
+var mainText = document.getElementById('paragraph').textContent;
 
  function highlight () {
     var input = document.getElementById('typed-text').value;
