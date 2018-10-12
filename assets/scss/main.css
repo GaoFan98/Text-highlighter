@@ -1,5 +1,10 @@
+input {
+  font-family: "Ubuntu", sans-serif; }
+
 #paragraph {
-  margin-top: 3rem;
-  font-family: Ubuntu; }
+  font-family: "Ubuntu", sans-serif; }
+
+.buttons {
+  font-family: "Ubuntu", sans-serif; }
 
 /*# sourceMappingURL=main.css.map */

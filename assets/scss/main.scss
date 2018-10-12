@@ -1,9 +1,15 @@
 
-#paragraph {
-  margin-top: 3rem;
-  font-family: Ubuntu;
+$main-font :  'Ubuntu', sans-serif; //Ubuntu
+
+
+input {
+  font-family: $main-font;
 }
 
-#typed-text {
+#paragraph {
+  font-family: $main-font;
+}
 
+.buttons {
+  font-family: $main-font;
 }
